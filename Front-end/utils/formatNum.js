@@ -1,0 +1,1 @@
+export const formatNum = (num) => num.toLocaleString('en-US', { minimumIntegerDigits: 2, useGrouping: false })
